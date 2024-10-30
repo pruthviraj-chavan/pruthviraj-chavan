@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here’s your introduction without the stars:<br><br>- Name: Pruthviraj Chavan 🧑‍💼  <br>- Current Role: Software Developer Trainee at QSpiders 💻   📰🤖📊  <br>- Key Skills:  <br>   - Front-end technologies: HTML, CSS, JavaScript 🌐🎨  <br>   - Back-end technologies: Python, MySQL 🐍💾  <br>   - Machine learning, deep learning, and data analysis 🤖📈  <br>   - Big data technologies: Hadoop and Spark 🗃️⚡  <br>   - Programming languages: Core Java, C++, Python 🖥️💻  <br>   - Experience in Outcome Based Education research 🎓📚   
+Here’s your introduction without the stars:<br><br>- Name: Pruthviraj Chavan 🧑‍💼  <br> Current Role: Software Developer at Infomatics Services  💻   📰🤖📊  <br>Key Skills:  <br>   Front-end technologies: HTML, CSS, JavaScript 🌐🎨  <br>   Back-end technologies: Python, MySQL 🐍💾  <br>   Machine learning, deep learning, and data analysis 🤖📈  <br>    Big data technologies: Hadoop and Spark 🗃️⚡  <br>   Programming languages: Core Java, C++, Python 🖥️💻  <br>   Experience in Outcome Based Education research 🎓📚   
 
 
 ## 🌐 Socials:
