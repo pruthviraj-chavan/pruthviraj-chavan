@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Name: Pruthviraj Chavan 🧑‍💼  <br> Current Role: Software Developer at Infomatics Services  💻   📰🤖📊  <br>  <br>   Front-end technologies: HTML, CSS, JavaScript 🌐🎨  <br>   Back-end technologies: Python, MySQL 🐍💾  <br>   Machine learning, deep learning, and data analysis 🤖📈  <br>    Big data technologies: Hadoop and Spark 🗃️⚡  <br>   Programming languages: Core Java, C++, Python 🖥️💻  <br>   
+<br><br>Name: Pruthviraj Chavan 🧑‍💼  <br> Current Role: Software Developer   💻   📰🤖📊  <br>  <br>   Front-end technologies: HTML, CSS, JavaScript 🌐🎨  <br>   Back-end technologies: Python, MySQL 🐍💾  <br>   Machine learning, deep learning, and data analysis 🤖📈  <br>    Big data technologies: Hadoop and Spark 🗃️⚡  <br>   Programming languages: Core Java, C++, Python 🖥️💻  <br>   
 
 
 ## 🌐 Socials:
