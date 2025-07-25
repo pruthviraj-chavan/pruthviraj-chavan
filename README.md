@@ -51,13 +51,7 @@
 
 ---
 
-## 🎓 Education
 
-**B.Tech, CSE (Data Science)**  
-Dr. D.Y. Patil COE, Kolhapur · CGPA 8.55/10 · May 2024  
-
-**HSC (12th)** · JNV Sindhudurga · CGPA 8.60/10 · 2020  
-**SSC (10th)** · JNV Sindhudurga · CGPA 8.58/10 · 2018  
 
 ---
 
