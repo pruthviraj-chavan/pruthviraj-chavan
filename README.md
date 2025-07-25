@@ -1,11 +1,76 @@
-# 💫 About Me:
-<br><br>Name: Pruthviraj Chavan 🧑‍💼  <br> Current Role: Software Developer   💻   📰🤖📊  <br>  <br>   Front-end technologies: HTML, CSS, JavaScript 🌐🎨  <br>   Back-end technologies: Python, MySQL 🐍💾  <br>   Machine learning, deep learning, and data analysis 🤖📈  <br>    Big data technologies: Hadoop and Spark 🗃️⚡  <br>   Programming languages: Core Java, C++, Python 🖥️💻  <br>   
+<div align="center">
 
+# 💫 Pruthviraj Chavan
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pruthvya_07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pruthvirajchavan-/) 
+<img src="https://user-images.githubusercontent.com/109096586/265293582-f6fbd719-5c77-4ee7-8e31-65be329512d7.png" alt="3D Developer" width="340"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+---
 
+**Software Developer | AI Enthusiast | Data Analyst**  
+📰 🤖 📊
 
+</div>
+
+---
+
+## 🌟 About Me
+
+- 🧑‍💼 **Name:** Pruthviraj Chavan  
+- 💻 **Current Role:** Software Developer  
+- 🚀 Passionate about scalable automation, backend architecture, and intelligent business solutions.  
+- 🔍 Always improving with creative tech and emerging AI frameworks.
+
+---
+
+## 🛠️ **Tech Stack**
+
+<div align="center">
+
+| Front-end         | Back-end         | Data & ML           | Cloud/DevOps       | Big Data     | Other Tools  |
+|-------------------|------------------|---------------------|--------------------|-------------|-------------|
+| HTML, CSS, JS     | Python, Django   | Pandas, NumPy       | AWS, Heroku        | Hadoop      | Power BI    |
+| TailwindCSS       | MySQL, MongoDB   | scikit-learn, Keras | Firebase           | Spark       | GitHub, Git |
+| React, Figma      | Core Java, C++   | TensorFlow, PyTorch | GitLab CI          |             | Canva, Plotly |
+
+</div>
+
+---
+
+## 🔬 **Projects Spotlight**
+
+- **Lead Generation Automation Agent:** n8n-based workflow for prospect scoring, auto-mailing, and regional lead filtering (→ +35% leads qualified).
+- **Sales Intelligence Dashboard:** Power BI dashboard visualizing monthly trends, churn, and funnel performance.
+- **ML Model Development:** Built and deployed regression/classification models & pipelines using Scikit-learn, TensorFlow.
+- **Voice Bot for Outreach:** Multilingual AI chatbot engaging 5,000+ users/day for election campaigns.
+
+---
+
+## 🌐 **Connect with Me**
+
+<p align="center">
+  <a href="https://www.instagram.com/pruthvya_07/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pruthvirajchavan-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 📈 **Stats & GitHub**
+
+<div align="center" style="display:flex;gap:40px;justify-content:center;align-items:center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvirajchavan2002&theme=react" width="410" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajchavan2002&layout=compact&theme=react" width="325" alt="top languages"/>
+</div>
+
+---
+
+## ⚡️ **Fun Fact**
+
+> “Great things never come from comfort zones…”
+
+---
+
+### 🌀 *Let's Build the Future Together!*
