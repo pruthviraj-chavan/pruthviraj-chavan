@@ -14,8 +14,7 @@
 
 ---
 
-## 🌟 About Me
-- 🎂 Born: 07/11/2002  
+## 🌟 About Me 
 - 📍 Kolhapur, India  
 - 📱 +91 94048 95667  
 - 💡 Analytical pro in Python · SQL · MongoDB · AWS  
@@ -23,21 +22,8 @@
 
 ---
 
-## 💼 Experience
-
-**Python Developer**, Axzora Inc, Goa  
-*Mar 2024 – Present*  
-- Built Agentic AI workflows and intelligent bots (n8n, Make.com, Vapi.ai)  
-- Deployed ML models to automate business processes  
-
 <details>
 <summary>Previous Roles</summary>
-
-- **Software Dev Intern**, Infomatics Services (Aug – Dec 2024)  
-  - Django apps, SQL optimization, AI model deployment  
-
-- **Full-Stack Python Dev**, PySpiders, Bangalore (May – Aug 2024)  
-  - Trained ML models (Regression, Trees, Random Forest), TensorFlow, clustering  
 
 </details>
 
