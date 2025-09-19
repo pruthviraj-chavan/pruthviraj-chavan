@@ -45,15 +45,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
-
-</div>
-
 ---
 
 ✨ *Let’s connect, collaborate, and create something amazing!* 🚀
