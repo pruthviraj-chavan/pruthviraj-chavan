@@ -2,43 +2,58 @@
 <div align="center">
 
 # 🚀 Pruthviraj Rajendra Chavan  
-### 🎯 Python Developer | AI Enthusiast | Data Science Specialist  
+### 🎯 Python Developer | 🤖 AI Enthusiast | 📊 Data Science Specialist  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Python+Developer;AI+%26+ML+Engineer;Data+Science+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Python+Developer;AI+%26+ML+Engineer;Data+Science+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:pruthvirajchavan2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pruthviraj-chavan)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)](https://github.com/your-username)
+---
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pruthvirajchavan2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthviraj-chavan)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-ff6f00?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## 🌟 About Me 
-- 📍 Kolhapur, India  
-- 📱 +91 94048 95667  
-- 💡 Analytical pro in Python · SQL · MongoDB · AWS  
-- 🤖 Passion for Data Analytics, ML & Agentic AI  
+## 🌟 About Me  
+- 📍 Based in **Kolhapur, India**  
+- 📱 Reach me: **+91 94048 95667**  
+- 💡 Strong in **Python · SQL · MongoDB · AWS**  
+- 🤖 Interested in **Data Analytics · Machine Learning · Agentic AI**  
+- 🎨 Always excited to **build, innovate & collaborate**  
 
 ---
 
 <details>
-<summary>Previous Roles</summary>
+<summary>🧑‍💻 Previous Roles</summary>
+
+- Python Developer Intern @ XYZ Company  
+- Data Analyst Trainee @ ABC Institute  
+- Freelance AI/ML Project Contributor  
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-| Languages      | Frameworks & Libs  | Cloud & DevOps | Data Viz        |
-| -------------- | ------------------ | -------------- | --------------- |
-| Python · R · JS · SQL | Django · Flask · FastAPI · Pandas · NumPy | AWS · Git       | Power BI · Tableau |
-
----
-
-
+| 💻 Languages | ⚡ Frameworks & Libraries | ☁️ Cloud & DevOps | 📊 Data Visualization |
+|--------------|---------------------------|------------------|----------------------|
+| 🐍 Python · 📊 R · 🌐 JavaScript · 🗄️ SQL | Django · Flask · FastAPI · Pandas · NumPy | AWS · Git · Docker | Power BI · Tableau |
 
 ---
 
-*Feel free to connect and collaborate!*  
+## 📈 GitHub Stats  
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+
+</div>
+
+---
+
+✨ *Let’s connect, collaborate, and create something amazing!* 🚀
