@@ -5,8 +5,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.application import MIMEApplication
  
-# Email credentials
-sender_email = "ur mail id"
+# Email credentialss
+sender_email = "your mail id"
 app_password = "add your app password from gmail"  # Use App Password, not normal password
  
 # List of recipient emails
