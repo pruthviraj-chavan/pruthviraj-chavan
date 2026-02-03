@@ -17,7 +17,7 @@
 ## ⚡ Quick Peek
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🌟 The Essentials</h3>
       <ul>
         <li>📍 Based in <b>Kolhapur, India</b></li>
@@ -26,8 +26,8 @@
         <li>🤖 Interest: <b>Agentic AI & Neural Networks</b></li>
       </ul>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviraj-chavan&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pruthviraj-chavan&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -47,7 +47,8 @@
 
 ## 📊 Real-time Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pruthviraj-chavan&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pruthviraj-chavan&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthviraj-chavan&theme=radical&hide_border=true" width="48%" />
 </div>
 
@@ -56,13 +57,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthviraj-chavan&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
-
----
-
-## 🧑‍💻 Professional Journey
-* 🚀 **Python Developer Intern** | XYZ Company  
-* 📊 **Data Analyst Trainee** | ABC Institute  
-* 🤖 **Freelance AI/ML Contributor** | Researching Agentic AI  
 
 ---
 
