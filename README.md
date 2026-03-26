@@ -33,7 +33,6 @@ focus:
   - Scalable Python Architectures
   - Data-Driven Decision Making
 current_status: "Building intelligent systems that matter"
-
 <br/>
 🛠️ Tech Arsenal
 <div align="center">
@@ -85,8 +84,8 @@ Cloud & DevOps
 <br/>
 🏆 Featured Projects
 <div align="center">
-https://github.com/pruthviraj-chavan
-https://github.com/pruthviraj-chavan
+https://github.com/pruthviraj-chavan/agentic-ai-framework
+https://github.com/pruthviraj-chavan/data-pipeline-automation
 </div>
 <br/>
 <div align="center">
