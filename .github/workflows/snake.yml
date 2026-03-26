@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ IMPORTANT (fixes exit code 128)
+  contents: write
 
 jobs:
   build:
@@ -21,8 +21,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # ✅ UPDATED (replaces old crazy-max action)
-      - name: Deploy to GitHub Pages
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
