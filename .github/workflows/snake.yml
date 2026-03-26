@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day
-  workflow_dispatch:      # allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ IMPORTANT (fixes exit code 128)
 
 jobs:
   build:
@@ -18,10 +21,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
+      # ✅ UPDATED (replaces old crazy-max action)
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
