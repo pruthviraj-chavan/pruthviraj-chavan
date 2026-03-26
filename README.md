@@ -148,9 +148,9 @@ me.say_hi()
 > 2. Create `.github/workflows/snake.yml` with the content from [Platane/snk](https://github.com/Platane/snk#usage)
 > 3. Run the workflow once — the SVG will auto-generate below!
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pruthviraj-chavan/pruthviraj-chavan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/pruthviraj-chavan/pruthviraj-chavan/output/github-snake.svg)
 
 ---
 
