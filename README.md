@@ -181,7 +181,7 @@ me.say_hi()
 <div align="center">
 
 ### 👋 Thanks for visiting my profile!
-### 🤝 Open to collaborations on AI/ML and Python projects
+### 🤝 Open to collaborations on AI/ML and Python , Data Engineering  projects
 
 <br/>
 
